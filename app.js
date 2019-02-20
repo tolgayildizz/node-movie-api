@@ -13,7 +13,8 @@ const app = express();
 //db connection
 
 const db = require('./helper/db')();
-
+const config = require('./config');
+app.set('api_secret_key',config.api_secret_key);
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
