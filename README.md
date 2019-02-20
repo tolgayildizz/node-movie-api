@@ -1,3 +1,4 @@
+[![Build Status](https://api.travis-ci.org/tolgayildizz/node-movie-api.svg)](https://travis-ci.org/tolgayildizz/node-movie-api)
 
 ![nodejs dersleri](https://mehmetseven.net/content/images/2017/12/nodejs-mehmet-seven.jpg)
 
